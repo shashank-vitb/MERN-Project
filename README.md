@@ -1,6 +1,10 @@
 ## Ethnus MERN Project for Group 47
-
+## http://music.shank50.tech:5173/
+## Update: Backend setup fixed. Deployed the whole webapp on Azure's VM and linked to my domain. However there are still some issues. Try it on Firefox. 
+## Some issues with Chromium based browsers. 
 ## Backend works fine locally but has some issues with deployment. Tested on Render, Linux VM on Azure.
+
+
 
 A web-based music streaming service built with a React frontend and Node.js backend.
 
